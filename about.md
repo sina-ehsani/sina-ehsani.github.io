@@ -5,6 +5,6 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p style='text-align: justify;'>
-	I am finishing up my Ph.D. at the University of Arizona. Working on deep learning particularly Natural Language Processing has been my main research interest in the past years. I genuinely enjoy developing Neural Network algorithms that can be employed in interesting AI challenges. Currently, I am working on using a multimodel (i.e., transformers and vision networks) on textual question answering tasks.
+	At the University of Arizona, I am completing my Ph.D. My main research interest in recent years has been deep learning, specifically Natural Language Processing. I appreciate creating Neural Network methods that can be used to solve intriguing AI problems. I'm currently working on textual question answering task utilizing a multimodel (transformers and vision networks).
 </p>
 

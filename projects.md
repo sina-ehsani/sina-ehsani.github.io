@@ -6,12 +6,19 @@ title: Projects
 <h1>CURRENT PROJECTS</h1>
 
 <h2>Textual Question Answering System with visual insights</h2>
-<p style='text-align: justify;'>Nowadays, We use Natural Language Processing in our everyday life, from  <a href="https://www.amazon.com/b?ie=UTF8&node=21155035011"> sending "virtual" hugs through Alexa </a> to using Google Translate to communicate with others when you are visiting a new place on your vacations. One of the uses of natural language processing is for the question answering problems; a person asking a question and the machine generating/finding the most accurate answer. 
+<p style='text-align: justify;'>Nowadays, We use Natural Language Processing in our everyday life, from  <a href="https://www.amazon.com/b?ie=UTF8&node=21155035011"> sending "virtual" hugs through Alexa </a> to using Google Translate to converse with others when traveling to unfamiliar places. Another application of natural language processing is question answering; a person asks a question, and the machine provides the most accurate response.
 <br>
-The project that I am working on is to improve textual question answering tasks by giving visual insights to the machine. The idea comes from how we as humans use our intuitions when dealing with a question. For instance, if someone asks you a question such as "Who will win a fight, a lion or a deer?", we as humans will use our visual imagination to compare lion and deer's characteristics. By picturing them in our mind, we can recognize sharp teeth, big nails, muscley body on the lion and then answer the question. This what lacks in today's machine question answering models, they do have an understanding of the language, but they lack that visual imagination. 
+My current project aims to improve textual question answering tasks by providing visual feedback to the machine. The concept is based on how we, as humans, use our intuitions when faced with a problem. For example, if someone asks you, "Who will win a fight, a lion or a deer?" we will use our visual imagination to compare the attributes of the lion and the deer. We can distinguish sharp teeth, big nails, and a muscular body on the lion by visualizing them in our minds and then answering the question. This is something that today's machine question-answering models lack; they understand the language, but they lack visual imagination.
 <br>
-To tackle this gap, I am extracting visual information using the Google search engine for textual question answering problems. Developing a multimodel system that utilizes transformer models (i.e., RoBERTa) and CNN models (e.g., ResNet, VGG) to improve generated results for textual question answering problems.
+To close this gap, I'm using the Google search engine to extract visual information for textual question-answering challenges. To improve generated outcomes for textual question answering challenges, a multimodel system that utilizes transformer models (e.g., RoBERTa) and CNN models (e.g., ResNet, VGG) is being developed.
 </p>
+
+
+<!-- <h2>Plot Processing - line plot</h2>
+<p style='text-align: justify;'> This project focuses on teaching machines how to understand plots. THe process consists of multiple tasks such as understanding plot type, legends, axis, 
+</p> -->
+
+
 <!-- 
 <h2>iViSA: An Adaptive Video Streaming Service over ICN</h2>
 <p>Research in Information-Centric Networking (ICN) and Named Data Networking (NDN)
@@ -64,5 +71,5 @@ automatic caching to optimize bandwidth. The project studies the technical chall
 to validate NDN as a future Internet architecture: routing scalability, fast forwarding, trust models, network
 security, content protection and privacy, and fundamental communication theory. The project uses end-to-end
 testbed deployments, simulation, and theoretical analysis to evaluate the proposed architecture, and is
-developing specifications and prototype implementations of NDN protocols and applications.</p>
+developing specifications and prototype implementations of NDN protocols and applications.</p> 
  -->

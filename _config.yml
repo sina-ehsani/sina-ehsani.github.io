@@ -1,13 +1,13 @@
 # main text of home
 name: Sina Ehsani
-bio: We’re all in this together - so lets be more sustianable!
+bio: We’re all in this together - so lets be more sustainable!
 # twitter summary info
 description: Sina Ehsani's personal website
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.png
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
