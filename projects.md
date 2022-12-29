@@ -5,7 +5,7 @@ title: Projects
 
 <h1>CURRENT PROJECTS</h1>
 
-<h2>Textual Question Answering System with visual insights</h2>
+<h2>OD-TQA: On Demand Visual Grounding fot Textual Question Answering</h2>
 <p style='text-align: justify;'>
 
     In today's world, we use Natural Language Processing (NLP) in various aspects of our lives, from using Google Translate to communicate with others in unfamiliar places, to using <a href="https://medium.com/predict/i-prompted-chatgpt-to-write-futurist-science-fiction-stories-the-results-are-underwhelming-49adcb9bf473"> ChatGPT to generate Sci-Fi stories in the style of our favorite writers </a>. Another common application of NLP is question answering - a person asks a question, and the machine provides the most accurate response.
@@ -15,7 +15,10 @@ title: Projects
     To bridge this gap, I am using Google search to extract visual information for textual question answering tasks. To further improve the performance of these models, I am also developing a multimodel system that combines transformer models (such as RoBERTa) with CNN models (such as ResNet and VGG). This system has the potential to provide more accurate and informed responses to question answering tasks by leveraging the strengths of both types of models.
 </p>
 
-![A beautiful landscape](/assets/papers/VTQA_dataset_4.png)
+![OD-TQA structure](/assets/papers/VTQA_dataset_4.png)
+
+
+
 
 
 <!-- <h2>Plot Processing - line plot</h2>
