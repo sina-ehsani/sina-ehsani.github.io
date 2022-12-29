@@ -5,6 +5,6 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p style='text-align: justify;'>
-	At the University of Arizona, I am completing my Ph.D. My main research interest in recent years has been deep learning, specifically Natural Language Processing. I appreciate creating Neural Network methods that can be used to solve intriguing AI problems. I'm currently working on textual question answering task utilizing a multimodel (transformers and vision networks).
+	I am currently pursuing my Ph.D. at the University of Arizona, with a focus on multimodal deep learning, particularly the combination of natural language processing and vision. My passion is in developing Neural Network methods to solve complex AI problems, and I am currently working on a multimodal network that integrates multimedia information to capture spatial and sequential dependencies. My research interests lie at the intersection of machine learning and artificial intelligence, and I am excited to continue exploring new ways to apply these technologies to real-world problems.
 </p>
 

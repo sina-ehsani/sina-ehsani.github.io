@@ -6,12 +6,16 @@ title: Projects
 <h1>CURRENT PROJECTS</h1>
 
 <h2>Textual Question Answering System with visual insights</h2>
-<p style='text-align: justify;'>Nowadays, We use Natural Language Processing in our everyday life, from  <a href="https://www.amazon.com/b?ie=UTF8&node=21155035011"> sending "virtual" hugs through Alexa </a> to using Google Translate to converse with others when traveling to unfamiliar places. Another application of natural language processing is question answering; a person asks a question, and the machine provides the most accurate response.
-<br>
-My current project aims to improve textual question answering tasks by providing visual feedback to the machine. The concept is based on how we, as humans, use our intuitions when faced with a problem. For example, if someone asks you, "Who will win a fight, a lion or a deer?" we will use our visual imagination to compare the attributes of the lion and the deer. We can distinguish sharp teeth, big nails, and a muscular body on the lion by visualizing them in our minds and then answering the question. This is something that today's machine question-answering models lack; they understand the language, but they lack visual imagination.
-<br>
-To close this gap, I'm using the Google search engine to extract visual information for textual question-answering challenges. To improve generated outcomes for textual question answering challenges, a multimodel system that utilizes transformer models (e.g., RoBERTa) and CNN models (e.g., ResNet, VGG) is being developed.
+<p style='text-align: justify;'>
+
+    In today's world, we use Natural Language Processing (NLP) in various aspects of our lives, from using Google Translate to communicate with others in unfamiliar places, to using <a href="https://medium.com/predict/i-prompted-chatgpt-to-write-futurist-science-fiction-stories-the-results-are-underwhelming-49adcb9bf473"> ChatGPT to generate Sci-Fi stories in the style of our favorite writers </a>. Another common application of NLP is question answering - a person asks a question, and the machine provides the most accurate response.
+    <br>
+    My current project aims to enhance the capabilities of textual question answering systems by incorporating visual feedback. As humans, when faced with a problem, we often use our intuitions and visual imagination to guide our decision making. For example, if someone asks, "Who would win in a fight, a lion or a deer?" we can visualize the attributes of each animal, such as the lion's sharp teeth and strong muscles, and use that information to make an informed decision. However, current machine question answering models do not have this ability to visualize and use that information to generate responses.
+    <br>
+    To bridge this gap, I am using Google search to extract visual information for textual question answering tasks. To further improve the performance of these models, I am also developing a multimodel system that combines transformer models (such as RoBERTa) with CNN models (such as ResNet and VGG). This system has the potential to provide more accurate and informed responses to question answering tasks by leveraging the strengths of both types of models.
 </p>
+
+![A beautiful landscape](/assets/papers/VTQA_dataset_4.png)
 
 
 <!-- <h2>Plot Processing - line plot</h2>
@@ -73,3 +77,4 @@ security, content protection and privacy, and fundamental communication theory. 
 testbed deployments, simulation, and theoretical analysis to evaluate the proposed architecture, and is
 developing specifications and prototype implementations of NDN protocols and applications.</p> 
  -->
+
