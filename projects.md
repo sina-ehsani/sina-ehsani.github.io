@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-# Current Projects
+# Projects
 
 ## OD-TQA: On-Demand Visual Grounding for Textual Question Answering
 
@@ -24,6 +24,30 @@ title: Projects
 <p style='text-align: justify;'>
     As OD-TQA continues to evolve, the project's ultimate goal is to bridge the gap between human and machine cognition, creating AI systems that can understand and interpret the world just as richly as we do. This endeavor encapsulates my broader research interests in Deep Learning and Multimodal Machine Learning. It promises a future where AI is not just a tool for answering questions, but a partner in exploring the complexities of our world.
 </p>
+
+
+
+
+## DeepShallow Network: An Innovative Architecture for Time-Series Forecasting
+
+<p style='text-align: justify;'>
+    In a world driven by data, effective analysis and prediction of time-series data is crucial. From predicting stock market trends to forecasting city traffic, the applications of time-series forecasting are far-reaching and vital. However, traditional methods often stumble when addressing the inherent variability of temporal data's significance, leading to inefficient and less accurate predictions.
+    <br>
+    My DeepShallow Network project proposes an innovative solution to this issue. It is a novel Convolutional Neural Network (CNN) architecture specifically designed for time-series forecasting tasks. The unique aspect of the DeepShallow network lies in its flexibility—it adjusts the depth of the network layers based on their temporal distance from the prediction point. This results in a more profound analysis of historical data while providing a shallower, more direct interpretation of recent data.
+</p>
+
+![DeepShallow Architecture](/assets/papers/DeepShallowFigure.png)
+
+<p style='text-align: justify;'>
+    Crucially, the DeepShallow network introduces a weight-sharing mechanism across the same depth of convolutional layers at different timestamps. This innovative feature fosters better generalization, reducing the model's susceptibility to overfitting. It's a direct response to the limitations of fixed-depth architectures, offering improved accuracy in various forecasting tasks.
+    <br>
+    I have demonstrated the DeepShallow Network's practical effectiveness in two diverse use-cases: rush-hour traffic prediction in Manhattan, using NYC Taxi TLC Trip Record Data, and flight-level passenger traffic prediction using historical traffic, price closure data, and seasonality. These case studies not only exemplify the network's wide-ranging applicability but also underscore its potential in handling diverse time-series forecasting tasks.
+    <br>
+    The DeepShallow network offers a fresh perspective in the field of time-series forecasting. It leverages the power of deep learning while recognizing and responding to the nuances of temporal data, underscoring my commitment to developing more intelligent, adaptable AI solutions.
+</p>
+
+
+
 
 <!-- 
 <h1>CURRENT PROJECTS</h1>
