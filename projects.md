@@ -3,6 +3,26 @@ layout: page
 title: Projects
 ---
 
+# Current Projects
+
+## OD-TQA: On-Demand Visual Grounding for Textual Question Answering
+
+We often underestimate the power of visualization. The human brain is incredibly adept at interpreting and extracting information from visual stimuli, allowing us to form complex conclusions based on what we see. This integral human capability is often taken for granted, especially when it comes to the field of Natural Language Processing (NLP).
+
+NLP has transformed our digital interactions, from instant translations that bridge language gaps, to AI models like [ChatGPT](https://medium.com/predict/i-prompted-chatgpt-to-write-futurist-science-fiction-stories-the-results-are-underwhelming) that can generate enthralling Sci-Fi narratives in a writer's specific style. In the realm of question answering, AI is typically tasked with finding the most accurate response to a query. However, most models lack a crucial dimension that humans use in decision-making: visualization.
+
+In my current project, OD-TQA, I'm addressing this gap by augmenting textual question answering systems with visual grounding capabilities. Using Google search, I extract relevant images that provide crucial visual information corresponding to the question at hand.
+
+The OD-TQA project brings together the power of Transformers like RoBERTa and Convolutional Neural Networks (CNNs) like ResNet and VGG, creating a multimodal system. This innovative fusion not only enhances the AI's interpretative power but also provides richer, more context-aware responses.
+
+OD-TQA's structure, seen below, serves as an excellent example of an innovative solution that captures the multimodal nature of human cognition. It strives to replicate the way we, as humans, synergize multiple forms of information—textual, visual, and more—to understand and interact with the world around us.
+
+![OD-TQA structure](/assets/papers/VTQA_dataset_4.png)
+
+As OD-TQA continues to evolve, the project's ultimate goal is to bridge the gap between human and machine cognition, creating AI systems that can understand and interpret the world just as richly as we do. This endeavor encapsulates my broader research interests in Deep Learning and Multimodal Machine Learning. It promises a future where AI is not just a tool for answering questions, but a partner in exploring the complexities of our world.
+
+
+<!-- 
 <h1>CURRENT PROJECTS</h1>
 
 <h2>OD-TQA: On Demand Visual Grounding fot Textual Question Answering</h2>
@@ -15,7 +35,7 @@ title: Projects
     To bridge this gap, I am using Google search to extract visual information for textual question answering tasks. To further improve the performance of these models, I am also developing a multimodel system that combines transformer models (such as RoBERTa) with CNN models (such as ResNet and VGG). This system has the potential to provide more accurate and informed responses to question answering tasks by leveraging the strengths of both types of models.
 </p>
 
-![OD-TQA structure](/assets/papers/VTQA_dataset_4.png)
+![OD-TQA structure](/assets/papers/VTQA_dataset_4.png) -->
 
 
 
