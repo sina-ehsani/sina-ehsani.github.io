@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-show_header: True
 ---
 
 # Projects

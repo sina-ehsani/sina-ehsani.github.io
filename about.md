@@ -1,7 +1,6 @@
 ---
 title: About
 layout: page
-show_header: True
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
