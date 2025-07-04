@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% include header.html %}
+{% if page.show_header != false %}
+  {% include header.html %}
+{% endif %}
 
 {{content}}
 

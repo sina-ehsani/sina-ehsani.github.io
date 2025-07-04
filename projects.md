@@ -1,6 +1,7 @@
 ---
-layout: page-no-header
+layout: page
 title: Projects
+show_header: false
 ---
 
 # Projects
