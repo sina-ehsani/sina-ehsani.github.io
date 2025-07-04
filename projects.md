@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-header
 title: Projects
 ---
 

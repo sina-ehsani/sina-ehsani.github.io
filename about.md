@@ -9,7 +9,7 @@ Hello! I'm Sina, an AI engineer and researcher driven by a fascination with how 
 </p>
 
 <p style='text-align: justify;'>
-My journey began in academia, where my Ph.D. research explored the intersection of vision and language. I developed novel deep learning models that could not only answer complex questions by analyzing text and images but also control robotic systems using natural language, improving task accuracy by over 20%.
+My journey began in academia, where my Ph.D. research explored the intersection of vision and language. I developed novel deep learning models that could answer complex questions by analyzing text and images. I have also worked on controlling robotic systems using natural language and have built powerful multimodal prediction systems that have been tested on diverse geo-spatiotemporal datasets for tasks like weather forecasting and traffic prediction.
 </p>
 
 <p style='text-align: justify;'>
@@ -17,7 +17,7 @@ I've since carried that passion into the industry. At American Airlines, I led t
 </p>
 
 <p style='text-align: justify;'>
-Currently, as a **Lead AI Engineer at Armada**, I am building the next generation of intelligent industrial systems. I lead the development of a sophisticated agentic AI platform that delivers real-time, natural-language insights to operators on the ground. Our system, optimized for edge deployment, already outperforms larger proprietary models by over 10% and is on track to boost industrial efficiency by 4.5%.
+Currently, as a Lead AI Engineer at Armada, I am building the next generation of intelligent industrial systems. I lead the development of a sophisticated agentic AI platform that delivers real-time, natural-language insights to operators on the ground. Our system, optimized for edge deployment, already outperforms larger proprietary models by over 10% and is on track to boost industrial efficiency by 4.5%.
 </p>
 
 <p style='text-align: justify;'>

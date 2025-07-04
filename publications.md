@@ -1,6 +1,6 @@
 ---
 title: Publications & Patents
-layout: page
+layout: page-no-header
 ---
 
 My research focuses on multimodal deep learning, natural language processing, and agentic AI systems. Below is a list of my publications and patents.
