@@ -5,17 +5,21 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p style='text-align: justify;'>
-I am a Lead AI Engineer with a Ph.D. in Systems and Industrial Engineering, specializing in Multimodal Deep Learning. My passion lies in building and fine-tuning advanced neural models to solve complex, real-world problems. With a strong background in research, evidenced by several patents and publications, I am dedicated to creating scalable, efficient, and impactful AI solutions.
+Hello! I'm Sina, an AI engineer and researcher driven by a fascination with how machines can learn to perceive and interact with the world in complex, human-like ways. My work is focused on turning cutting-edge research into practical, real-world applications that solve meaningful problems.
 </p>
 
-### My Expertise
+<p style='text-align: justify;'>
+My journey began in academia, where my Ph.D. research explored the intersection of vision and language. I developed novel deep learning models that could not only answer complex questions by analyzing text and images but also control robotic systems using natural language, improving task accuracy by over 20%.
+</p>
 
-My work spans several key areas of artificial intelligence:
+<p style='text-align: justify;'>
+I've since carried that passion into the industry. At American Airlines, I led the creation of a forecasting engine that cut flight traffic prediction errors in half. Later, at Truveta, I had the opportunity to contribute to the mission of "Saving Lives with Data" by building NLP models that processed sensitive clinical data, significantly accelerating research workflows.
+</p>
 
-*   **Deep Learning & NLP:** I have extensive experience in designing and deploying deep neural networks. At American Airlines, I developed a forecasting engine that reduced prediction errors by 50%. I've also pre-trained and fine-tuned Large Language Models (LLMs) on clinical text data at Truveta, significantly improving downstream task accuracy.
-*   **Agentic AI & Reinforcement Learning:** I architected a scalable agentic AI routing system that outperformed large proprietary systems by over 10%. I also developed a novel multimodal deep learning architecture using reinforcement learning, reducing mean squared error by 10-15% compared to state-of-the-art models.
-*   **Multimodal Learning:** My doctoral research focused on combining vision and language data. I've developed systems that leverage both text and images to enhance machine question answering and pioneered a framework to control robotic camera systems using natural language, improving task accuracy by 20%.
+<p style='text-align: justify;'>
+Currently, as a **Lead AI Engineer at Armada**, I am building the next generation of intelligent industrial systems. I lead the development of a sophisticated agentic AI platform that delivers real-time, natural-language insights to operators on the ground. Our system, optimized for edge deployment, already outperforms larger proprietary models by over 10% and is on track to boost industrial efficiency by 4.5%.
+</p>
 
-### My Philosophy
-
-I believe in the power of AI to drive progress and I am an active contributor to open-source and collaborative AI initiatives. Whether it's developing prescriptive intelligence platforms to improve industrial efficiency or analyzing geospatial data to predict network performance, my goal is to translate complex data into actionable, natural-language insights that empower operators and analysts. I am driven by the challenge of solving impactful problems and turning innovative research into robust, production-ready systems.
+<p style='text-align: justify;'>
+I believe in building AI that is not only powerful but also collaborative and accessible. I'm a strong advocate for open-source and am always excited by the challenge of creating robust, scalable solutions that empower people and drive innovation.
+</p>
