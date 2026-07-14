@@ -1,8 +1,8 @@
 # main text of home
 name: Sina Ehsani
-bio: Lead AI Engineer with deep expertise in Deep Learning, NLP, and Multimodal Learning. Passionate about solving real-world problems through innovation and open-source collaboration.
+bio: Lead AI Engineer and researcher specializing in LLM post-training, agentic AI safety, and multimodal learning. Passionate about turning research into real-world systems.
 # twitter summary info
-description: The personal and professional website for Sina Ehsani, a Lead AI Engineer specializing in LLMs, Generative AI, and Reinforcement Learning.
+description: The personal and professional website for Sina Ehsani, a Lead AI Engineer and researcher specializing in LLMs, agentic AI safety, and reinforcement learning.
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,8 +20,8 @@ url: https://sina-ehsani.github.io
 
 permalink: /:title/
 
-# To enable google analytics, supply your token below
-analytics-google: 'UA-189793665-1'
+# To enable google analytics, supply a GA4 measurement ID below
+# analytics-google: ''
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -37,7 +37,7 @@ linkedin: sina-ehsani
 github: sina-ehsani
 # facebook: sina-ehsani
 # spotify: 4YyzWRrQcKTunAXtQRaO7h
-email: sinaehsani@arizona.edu
+email: sina.ehsani6@gmail.com
 # instagram: myinstagram
 # youtube: myyoutube
 # twitter: mytwitter
@@ -80,7 +80,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: false 

@@ -17,7 +17,11 @@ I've since carried that passion into the industry. At American Airlines, I led t
 </p>
 
 <p style='text-align: justify;'>
-Currently, as a Lead AI Engineer at Armada, I am building the next generation of intelligent industrial systems. I lead the development of a sophisticated agentic AI platform that delivers real-time, natural-language insights to operators on the ground. Our system, optimized for edge deployment, already outperforms larger proprietary models by over 10% and is on track to boost industrial efficiency by 4.5%.
+Currently, as a Lead AI Engineer at Armada, I manage a team of AI engineers building the next generation of intelligent industrial systems. I lead the development of a sophisticated agentic AI platform that delivers real-time, natural-language insights to operators on the ground. Our system, optimized for edge deployment, already outperforms larger proprietary models by over 10% and is on track to boost industrial efficiency by 4.5%.
+</p>
+
+<p style='text-align: justify;'>
+Alongside this, I lead our AI safety and red-teaming research. Our latest work studies how open-weight LLMs can be turned into "sleeper agents" — models fine-tuned to hide malicious tool-calling behavior behind benign benchmark performance — and develops layered defenses that reliably detect them. This research is currently under review at NeurIPS 2026. My broader research record includes 10 publications and 5 U.S. patents spanning multimodal learning, LLM post-training, and agentic AI.
 </p>
 
 <p style='text-align: justify;'>

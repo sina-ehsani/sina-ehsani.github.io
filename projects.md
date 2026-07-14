@@ -9,6 +9,18 @@ Here are some of the key projects I have led or made significant contributions t
 
 ---
 
+### AI Safety & Red-Teaming for Tool-Using LLM Agents
+
+I lead Armada's AI safety research program. Our latest work, *The Poisoned Toolbox* (under review at NeurIPS 2026), demonstrates a supply-chain attack on open-weight LLMs: a multi-stage PEFT pipeline (SFT-then-GRPO) that implants temporally triggered malicious tool calls while reinforcement learning preserves benign behavior everywhere else — evading standard benchmarks entirely.
+
+*   **Key Technologies:** LLM Post-Training (SFT, GRPO), PEFT (LoRA), Red-Teaming, Agentic AI, Evals.
+*   **Impact & Achievements:**
+    *   Attack achieves **99.6% success** with a 0.6% accidental-trigger rate on as few as 6,000 training examples.
+    *   Designed a four-layer defense framework: a cascaded runtime monitor achieving **100% detection at a 1.79% false-positive rate**, plus weight-distribution analysis and high-temperature stochastic probing.
+    *   Shows that conditional backdoors evade benchmark-based evaluation but leave detectable fingerprints — motivating layered defenses for open-weight agent ecosystems.
+
+---
+
 ### Agentic AI Routing System for Industrial Processes
 
 As the lead on this project at Armada, I architected a scalable agentic AI routing system designed for complex industrial applications. The system leverages advanced ML and optimization to translate complex data into actionable, natural-language insights for operators.
@@ -27,7 +39,7 @@ At American Airlines, I led the development of a deep neural network forecasting
 
 *   **Key Technologies:** Deep Learning, Multimodal Neural Networks, Time-Series Analysis, Python, PyTorch, AzureML.
 *   **Impact & Achievements:**
-    *   **Reduced prediction mean square errors by 50%** compared to previous models.
+    *   **Reduced prediction mean squared error by 50%** compared to previous models.
     *   Successfully deployed for A/B testing and potential replacement of legacy systems.
     *   Expanded to cover over 7,000 flights, providing accurate predictions for the next 330 days.
 
@@ -41,7 +53,7 @@ This work, stemming from my doctoral research and applied at Armada, focuses on 
 *   **Impact & Achievements:**
     *   Pioneered OPUS, an LLM framework to control robotic camera systems with natural language, achieving **20% higher task accuracy** than large proprietary models.
     *   Developed a novel multimodal architecture that **reduces mean squared error by 10-15%** across diverse tasks.
-    *   Introduced a Textual Question Answering architecture that employs on-demand visual grounding, achieving performance comparable to GPT-4 with a 400M parameter model.
+    *   Introduced a Textual Question Answering architecture that employs on-demand visual grounding, achieving performance comparable to GPT-4o with a 400M parameter model.
 
 ---
 
