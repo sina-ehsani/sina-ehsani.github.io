@@ -82,6 +82,9 @@ projects: true
 about: true
 blog: true
 
+# publish posts even if their date is slightly ahead of build time (UTC)
+future: true
+
 # do you want to show the "read time" of the posts?
 read-time: false 
 
